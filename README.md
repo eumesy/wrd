@@ -13,7 +13,7 @@ Several researchers have published reimplementations in Python:
 
 ## Paper
 
-Currently, the latest version is available on arXiv ([URL](https://arxiv.org/abs/2004.15003)) and [ACL anthology (v2)](https://www.aclweb.org/anthology/2020.emnlp-main.236/).
+Currently, the latest version is available on [arXiv](https://arxiv.org/abs/2004.15003) and [ACL anthology (v2)](https://www.aclweb.org/anthology/2020.emnlp-main.236/).
 
 If you use our code for academic work, please cite
 
