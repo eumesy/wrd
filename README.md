@@ -8,7 +8,7 @@ The paper is [available online](https://arxiv.org/abs/2004.15003).
 More details coming soon!
 
 Several researchers have published reimplementations in Python:
-- Thank [@bojone](https://github.com/bojone) for writing [a blog article with Python code in English :uk:](https://www.programmersought.com/article/42585996273/), and [a blog article with Python code in Chinese :cn:](https://kexue.fm/archives/7388).
+- Thank [@bojone](https://github.com/bojone) for writing [a blog article with Python code in Chinese :cn:](https://kexue.fm/archives/7388).
 - Thank [@kenta1984](https://github.com/kenta1984) for writing [Python code](https://github.com/kenta1984/wrd) and [a blog article in Japanese :jp:](https://qiita.com/kenta1984/items/bad7e2f68331849d0053).
 
 ## Paper
